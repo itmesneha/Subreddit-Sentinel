@@ -1,0 +1,2 @@
+# Subreddit-Sentinel
+CS5246 TEXT MINING PROJECT
