@@ -1,6 +1,7 @@
 # Subreddit-Sentinel
-## CS5246 TEXT MINING PROJECT
-## Progress Report - https://docs.google.com/presentation/d/14lXlBY8QgykJlkMxZbtnUcyGn653M0R4bX51vJDbXgA/edit#slide=id.p7
+CS5246 TEXT MINING PROJECT
+## Progress Report
+https://docs.google.com/presentation/d/14lXlBY8QgykJlkMxZbtnUcyGn653M0R4bX51vJDbXgA/edit#slide=id.p7
 ## Final Report - 
 https://www.overleaf.com/project/67eb8382430a34d760356108
 ## Report should have:
