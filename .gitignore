@@ -1,0 +1,4 @@
+# Ignore csv
+data_samples/
+RMHD/
+__pycache__/
