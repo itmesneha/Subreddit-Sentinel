@@ -1,5 +1,4 @@
 # Subreddit-Sentinel
-CS5246 TEXT MINING PROJECT
 
 We propose Subreddit Sentinel, an end-to-end system
 for early detection of mental health concerns by mining Reddit
